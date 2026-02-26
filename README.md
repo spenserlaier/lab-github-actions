@@ -2,6 +2,8 @@
 
 [![Build Status](https://github.com/spenserlaier/lab-github-actions/actions/workflows/workflow.yml/badge.svg)](https://github.com/spenserlaier/lab-github-actions/actions)
 
+[![codecov](https://codecov.io/github/spenserlaier/lab-github-actions/graph/badge.svg?token=AKAAEIMORN)](https://codecov.io/github/spenserlaier/lab-github-actions)
+
 This is for NYU DevOps lab on using GitHub Actions with Redis for Continuous Integration
 
 this is a test to evaluate codecov
